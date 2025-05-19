@@ -807,9 +807,9 @@ h2[data-astro-cid-dlwzxz4v] {
 @font-face {
   font-display: block;
   font-family: bootstrap-icons;
-  src: url(/assets/bootstrap-icons.mSm7cUeB.woff2?e34853135f9e39acf64315236852cd5a)
+  src: url(assets/bootstrap-icons.mSm7cUeB.woff2?e34853135f9e39acf64315236852cd5a)
       format("woff2"),
-    url(/assets/bootstrap-icons.BeopsB42.woff?e34853135f9e39acf64315236852cd5a)
+    url(assets/bootstrap-icons.BeopsB42.woff?e34853135f9e39acf64315236852cd5a)
       format("woff");
 }
 .bi:before,
